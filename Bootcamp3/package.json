@@ -1,5 +1,5 @@
 {
-  "name": "Bootcamp#3",
+  "name": "Bootcamp3",
   "version": "3.0.0",
   "description": "Routing server-side requests using ExpressJS",
   "main": "server.js",
