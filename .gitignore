@@ -1,0 +1,5 @@
+# Don't upload the config!
+Bootcamp3/server/config/config.js
+
+# Don't upload the node modules
+Bootcamp3/node_modules
